@@ -1,2 +1,2 @@
 # appdev
-baboons trynna make an app
+Trying to make an app
